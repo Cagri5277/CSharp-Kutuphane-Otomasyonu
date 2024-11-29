@@ -253,3 +253,4 @@ namespace Kutuphane
         }
     }
 }
+//çok güzel bir kod//
